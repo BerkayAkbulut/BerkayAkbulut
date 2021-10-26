@@ -1,5 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=BerkayAkbulut&show_icons=true">
-<img align="right" alt="GIF" src="https://giphy.com/embed/UQIz23t3WN8gyfusrq" width="500" height="320" /> 
+<img align="right" alt="GIF" src="https://giphy.com/gifs/scandtrack-outdoor-trekking-wandern-UQIz23t3WN8gyfusrq" width="500" height="320" /> 
+
 
 
 # Merhaba, ben Berkay Akbulut! 
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img align="right" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320" /> 
 
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/berkayakbulut97)
