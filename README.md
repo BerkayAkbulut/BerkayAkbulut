@@ -6,8 +6,8 @@
 # Merhaba, ben Berkay Akbulut! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BerkayAkbulut" alt="BerkayAkbulut" /> </p>
 
-[![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/berkayakbulut97)
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/BerkayAkbulut)
+[![](https://img.shields.io/twitter/follow/berkayakbulut97?style=social)](https://www.twitter.com/berkayakbulut97)
+[![](https://img.shields.io/github/followers/BerkayAkbulut?style=social)](https://www.github.com/BerkayAkbulut)
 
 
 
