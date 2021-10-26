@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkayakbulut/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@berkayakbulut)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akbulutberkay)
-[![Mail Badge](https://img.shields.io/badge/mertcobanov@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:akbulutberkay@yandex.com)](mailto:akbulutberkay@yandex.com)
+[![Mail Badge](https://img.shields.io/badge/akbulutberkay@yandex.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:akbulutberkay@yandex.com)](mailto:akbulutberkay@yandex.com)
 
 
 
