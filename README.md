@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=BerkayAkbulut&show_icons=true">
 
 # Merhaba, ben Berkay Akbulut! 
@@ -23,6 +20,7 @@
 
 
 <!--
+### Hi there 👋
 **BerkayAkbulut/BerkayAkbulut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/mertcobanov)
 Here are some ideas to get you started:
