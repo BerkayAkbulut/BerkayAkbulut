@@ -1,5 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=BerkayAkbulut&show_icons=true">
-<iframe src="https://giphy.com/embed/UQIz23t3WN8gyfusrq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scandtrack-outdoor-trekking-wandern-UQIz23t3WN8gyfusrq">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://giphy.com/embed/UQIz23t3WN8gyfusrq" width="500" height="320" /> 
+
 
 # Merhaba, ben Berkay Akbulut! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BerkayAkbulut" alt="BerkayAkbulut" /> </p>
