@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=BerkayAkbulut&show_icons=true">
 
 # Merhaba, ben Berkay Akbulut! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BerkayAkbulut" alt="BerkayAkbulut" /> </p>
