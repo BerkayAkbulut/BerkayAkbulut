@@ -8,11 +8,16 @@
 
 
 
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/berkayakbulut97)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkayakbulut/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@berkayakbulut)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akbulutberkay)
-[![Mail Badge](https://img.shields.io/badge/akbulutberkay@yandex.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:akbulutberkay@yandex.com)](mailto:akbulutberkay@yandex.com)
+### Connect with me:
+[<img align="left" alt="berkay-akbulut | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCy9tU79im1b7RjUS37BMO8A)
+[<img align="left" alt="berkay-akbulut | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/berkaykbulut97)
+[<img align="left" alt="berkay-akbulut | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/berkayakbulut/)
+[<img align="left" alt="berkay-akbulut | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/akbulutberkay/)
+[<img align="left" alt="berkay-akbulut | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />](https://medium.com/@berkayakbulut)
+<br />
+<br />
+
+
 
 
 
@@ -33,4 +38,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/berkayakbulut97)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkayakbulut/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@berkayakbulut)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akbulutberkay)
+[![Mail Badge](https://img.shields.io/badge/akbulutberkay@yandex.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:akbulutberkay@yandex.com)](mailto:akbulutberkay@yandex.com)
+
+
+
 -->
