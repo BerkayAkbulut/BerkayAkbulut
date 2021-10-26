@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=BerkayAkbulut&show_icons=true">
-<img align="right" alt="GIF" src="https://giphy.com/gifs/scandtrack-outdoor-trekking-wandern-UQIz23t3WN8gyfusrq" width="500" height="320" /> 
+<img align="right" alt="GIF" src="https://tenor.com/view/we-bare-bears-happy-current-mood-gif-5159195" width="500" height="320" /> 
 
-
+<div class="tenor-gif-embed" data-postid="5159195" data-share-method="host" data-aspect-ratio="1.11111" data-width="100%"><a href="https://tenor.com/view/we-bare-bears-happy-current-mood-gif-5159195">Walking Down The Street Like GIF</a>from <a href="https://tenor.com/search/we+bare+bears-gifs">We Bare Bears GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # Merhaba, ben Berkay Akbulut! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BerkayAkbulut" alt="BerkayAkbulut" /> </p>
