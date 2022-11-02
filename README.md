@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=BerkayAkbulut&show_icons=true">
 
-# Merhaba, ben Berkay Akbulut! 
+# Hello, I'm Berkay! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BerkayAkbulut" alt="BerkayAkbulut" /> </p>
 
 [![](https://img.shields.io/twitter/follow/berkayakbulut97?style=social)](https://www.twitter.com/berkayakbulut97)
